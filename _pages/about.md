@@ -22,3 +22,17 @@ News
 - 2023/03 One [paper](https://ieeexplore.ieee.org/abstract/document/10309342) is accepted by [2023 32nd RO-MAN](https://ro-man2023.org/main).
 - 2023/02 One [paper](https://ieeexplore.ieee.org/abstract/document/10247923) is accepted by [2023 60th DAC](https://www.dac.com/About/Conference-Archive/60th-DAC-2023).
 - 2022/09 Join [Sustainable Computing Laboratory (SCL)](https://www3.nd.edu/~scl/index.html) at University of Notre Dame.
+
+Review Services
+======
+- IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+
+Awards
+======
+- Young student fellow award, Design Automation Conference(DAC), 2023, USA
+
+Teaching (as Teaching Assistant)
+======
+- **CSE 30151** Theory of Computing, Spring 2023 @ Notre Dame
+- **CSE 30246** Database Concepts, Fall 2022 @ Notre Dame
+- **CS 6476** Computer Vision, Spring 2021 @ Georgia Tech
