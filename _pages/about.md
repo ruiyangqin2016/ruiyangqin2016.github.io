@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ======
-Ruiyang Qin is a Ph.D. student at University of Notre Dame under the supervision of professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). He obtained his B.S. and M.S. degrees in Computer Science from Georgia Institute of Technology in 2020 and 2021. His research interests include on-device learning and personalized deep learning in healthcare.
+Ruiyang Qin is a second-year Ph.D. student at University of Notre Dame under the supervision of professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). He obtained his B.S. and M.S. degrees in Computer Science from Georgia Institute of Technology in 2020 and 2021. His research interests include on-device learning and personalized deep learning in healthcare.
 
 
 News
