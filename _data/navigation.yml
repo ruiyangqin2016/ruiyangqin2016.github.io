@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /pages/publications/
+    url: /_publications/papers.md
 
   - title: "CV/Bio"
     url: /portfolio/
