@@ -23,3 +23,10 @@ The 29th Asia and South Pacific Design Automation Conference (ASP-DAC), 2024
 [Open-Ended Multi-Modal Relational Reasoning for Video Question Answering](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10309342) <br>
 Haozheng Luo, **Ruiyang Qin**, Chenwei Xu, Guo Ye, Zening Luo <br>
 The 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023
+
+Under Review
+-----
+[When Automated Assessment Meets Automated Content Generation: Examining Text Quality in the Era of GPTs](https://arxiv.org/pdf/2309.14488) <br>
+Marialena Bevilacqua, Kezia Oketch, **Ruiyang Qin**, Will Stamey, Xinyuan Zhang, Yi Gan, Kai Yang, Ahmed Abbasi <br>
+ACM Transactions on Information Systems (TOIS)
+
