@@ -21,6 +21,7 @@ News
 - 2024/01 One [invited paper](https://arxiv.org/pdf/2402.06696.pdf) is presented at [2024 29th ASP-DAC](https://www.aspdac.com/aspdac/committee/oc2024/). 
 - 2023/04 Received DAC 2023 Young Fellow
 - 2023/03 One [paper](https://ieeexplore.ieee.org/abstract/document/10309342) is accepted by [2023 32nd RO-MAN](https://ro-man2023.org/main).
+- 2023/02 One [paper](https://ieeexplore.ieee.org/iel7/10247654/10247655/10247923.pdf) is accepted by [2024 60th DAC](https://www.dac.com/About/Conference-Archive/60th-DAC-2023). 
 - 2022/09 Join [Sustainable Computing Laboratory (SCL)](https://www3.nd.edu/~scl/index.html) at University of Notre Dame.
 
 Review Services
