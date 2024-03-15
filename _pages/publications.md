@@ -18,6 +18,10 @@ Publications
 
 Conferences
 -----
+An Adaptive System for Wearable Devices to Detect Stress Using Physiological Signals <br>
+Gelei Xu, Ruiyang Qin, Zhi Zheng and Yiyu Shi <br>
+ACM Conference on Human Factors in Computing Systems (CHI), 2024 <br>
+
 [Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis](https://arxiv.org/pdf/2311.12275.pdf) <br>
 Ruiyang Qin, Jun Xia, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi <br>
 The 61th IEEE/ACM Design Automation Conference (DAC), 2024. <br>
