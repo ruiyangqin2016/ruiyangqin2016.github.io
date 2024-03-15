@@ -16,6 +16,7 @@ Ruiyang Qin is a second-year Ph.D. student at University of Notre Dame under the
 
 News
 ======
+- 2024/03 One paper is accepted by [2024 CHI conference PhysioCHI workshop](https://www.hcilab.org/physiochi24/cfp/)
 - 2024/03 Receive Gemma Academic Program GCP Credit Aware up to $15,000 from Google. 
 - 2024/02 One [paper](https://arxiv.org/pdf/2311.12275.pdf) is accepted by [2024 61th DAC](https://www.dac.com/Conference/2024-Call-for-Contributions). 
 - 2024/01 One [invited paper](https://arxiv.org/pdf/2402.06696.pdf) is presented at [2024 29th ASP-DAC](https://www.aspdac.com/aspdac/committee/oc2024/). 
