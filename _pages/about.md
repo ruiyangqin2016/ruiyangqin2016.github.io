@@ -30,8 +30,8 @@ Review Services
 
 Awards
 ======
-- Young student fellow award, Design Automation Conference(DAC), 2024, USA
-- Young student fellow award, Design Automation Conference(DAC), 2023, USA
+- DAC fellowship, 2024, USA
+- DAC fellowship, 2023, USA
 
 Teaching (as Teaching Assistant)
 ======
