@@ -13,6 +13,8 @@ Biography
 ======
 My name is Ruiyang Qin. Currently, I am a second-year Ph.D. student in the Department of Computer Science and Engineering at University of Notre Dame, fortunately advised by professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). I obtained mt B.S. and M.S. degrees in Computer Science from Georgia Institute of Technology in 2020 and 2021. My research interests include on-device learning and personalized deep learning in healthcare.
 
+[Click to view my cv](https://github.com/ruiyangqin2016/ruiyangqin2016.github.io/blob/master/Resume.pdf)
+
 
 News
 ======
