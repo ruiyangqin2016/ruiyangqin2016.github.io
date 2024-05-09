@@ -29,6 +29,7 @@ News
 Review Services
 ======
 - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+- IEEE Intelligent Systems
 
 Awards
 ======
