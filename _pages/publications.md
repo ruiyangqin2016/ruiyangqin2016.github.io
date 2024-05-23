@@ -44,4 +44,8 @@ Under Review
 Marialena Bevilacqua, Kezia Oketch, Ruiyang Qin, Will Stamey, Xinyuan Zhang, Yi Gan, Kai Yang, Ahmed Abbasi <br>
 ACM Transactions on Information Systems (TOIS)
 
+Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews <br>
+Ruiyang Qin, Ryan Cook, Kai Yang, Ahmed Abbasi, David Dobolyi, Salman Seyedi, Emily Griner, Hyeokhyen Kwon, Robert O. Cotes, Zifan Jiang, Gari D. Clifford <br>
+ACM Transactions on Management Information Systems (TMIS)
+
 
