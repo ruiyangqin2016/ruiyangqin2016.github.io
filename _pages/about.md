@@ -25,10 +25,11 @@ News
 - 2023/02 One [paper](https://ieeexplore.ieee.org/iel7/10247654/10247655/10247923.pdf) is accepted by [2024 60th DAC](https://www.dac.com/About/Conference-Archive/60th-DAC-2023). 
 - 2022/09 Join [Sustainable Computing Laboratory (SCL)](https://www3.nd.edu/~scl/index.html) at University of Notre Dame.
 
-Review Services
+Review Services (In chronological order)
 ======
 - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
 - IEEE Intelligent Systems
+- Conference on Neural Information Processing Systems (NeurIPS)
 
 Awards
 ======
