@@ -15,8 +15,6 @@ My name is Ruiyang Qin. Currently, I am a second-year Ph.D. student in the Depar
 
 [Click to view my cv](https://ruiyangqin2016.github.io/Resume.pdf)
 
-<a href="https://ruiyangqin2016.github.io/Resume.pdf" target="_blank">Click to view my CV</a>
-
 News
 ======
 - 2024/06 One paper is accepted by [TMIS](https://dl.acm.org/journal/tmis). (Its pdf version is coming soon)
