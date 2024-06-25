@@ -17,6 +17,8 @@ My name is Ruiyang Qin. Currently, I am a second-year Ph.D. student in the Depar
 
 News
 ======
+- 2024/06 One paper is accepted by [ICCAD](https://2024.iccad.com/)
+- 2024/06 One paper is accepted by [TOIS](https://dl.acm.org/journal/tois) 
 - 2024/06 One paper is accepted by [TMIS](https://dl.acm.org/journal/tmis). (Its pdf version is coming soon)
 - 2024/03 Receive Gemma Academic Program GCP Credit Aware up to $15,000 from Google. 
 - 2024/02 One [paper](https://arxiv.org/pdf/2311.12275.pdf) is accepted by [2024 61th DAC](https://www.dac.com/Conference/2024-Call-for-Contributions). 
