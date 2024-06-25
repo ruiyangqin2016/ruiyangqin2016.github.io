@@ -18,6 +18,10 @@ Publications
 
 Conferences
 -----
+[Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures](https://arxiv.org/pdf/2405.04700) <be>
+Ruiyang Qin, Zheyu Yan, Dewen Zeng, Zhenge Jia, Dancheng Liu, Jianbo Liu, Zhi Zheng, Ningyuan Cao, Kai Ni, Jinjun Xiong, Yiyu Shi
+The 43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024 <br>
+
 An Adaptive System for Wearable Devices to Detect Stress Using Physiological Signals <br>
 Gelei Xu, Ruiyang Qin, Zhi Zheng and Yiyu Shi <br>
 The ACM Conference on Human Factors in Computing Systems (CHI), 2024 <br>
@@ -44,11 +48,13 @@ Language Models for Online Depression Detection: A Review and Benchmark Analysis
 Ruiyang Qin, Ryan Cook, Kai Yang, Ahmed Abbasi, David Dobolyi, Salman Seyedi, Emily Griner, Hyeokhyen Kwon, Robert O. Cotes, Zifan Jiang, Gari D. Clifford <br>
 ACM Transactions on Management Information Systems (TMIS)
 
-Under Review
------
 [When Automated Assessment Meets Automated Content Generation: Examining Text Quality in the Era of GPTs](https://arxiv.org/pdf/2309.14488) <br>
 Marialena Bevilacqua, Kezia Oketch, Ruiyang Qin, Will Stamey, Xinyuan Zhang, Yi Gan, Kai Yang, Ahmed Abbasi <br>
 ACM Transactions on Information Systems (TOIS)
+
+Under Review
+-----
+
 
 
 
