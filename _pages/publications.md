@@ -20,19 +20,15 @@ Conferences
 -----
 [Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures](https://arxiv.org/pdf/2405.04700) <be>
 Ruiyang Qin, Zheyu Yan, Dewen Zeng, Zhenge Jia, Dancheng Liu, Jianbo Liu, Zhi Zheng, Ningyuan Cao, Kai Ni, Jinjun Xiong, Yiyu Shi
-The 43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024 <br>
-
-An Adaptive System for Wearable Devices to Detect Stress Using Physiological Signals <br>
-Gelei Xu, Ruiyang Qin, Zhi Zheng and Yiyu Shi <br>
-The ACM Conference on Human Factors in Computing Systems (CHI), 2024 <br>
+The 43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024 (acceptance rate 24.2%) <br>
 
 [Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis](https://arxiv.org/pdf/2311.12275.pdf) <br>
 Ruiyang Qin, Jun Xia, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi <br>
-The 61th IEEE/ACM Design Automation Conference (DAC), 2024. <br>
+The 61th IEEE/ACM Design Automation Conference (DAC), 2024 (acceptance rate 21.8%) <br>
 
 [FL-NAS: Towards Fairness of NAS for Resource Constrained Devices via Large Language Models](https://arxiv.org/pdf/2402.06696.pdf) <br>
 Ruiyang Qin, Yuting Hu, Zheyu Yan, Jinjun Xiong, Ahmed Abbasi, Yiyu Shi <br>
-The 29th Asia and South Pacific Design Automation Conference (ASP-DAC), 2024
+The 29th Asia and South Pacific Design Automation Conference (ASP-DAC), 2024 (acceptance rate 31%) <br>
 
 [Open-Ended Multi-Modal Relational Reasoning for Video Question Answering](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10309342) <br>
 Haozheng Luo, Ruiyang Qin, Chenwei Xu, Guo Ye, Zening Luo <br>
@@ -40,7 +36,7 @@ The 32nd IEEE International Conference on Robot and Human Interactive Communicat
 
 [Hybrid gate-pulse model for variational quantum algorithms](https://ieeexplore.ieee.org/iel7/10247654/10247655/10247923.pdf) <br>
 Zhiding Liang, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, Yiru Wang, Song Han, Xuehai Qian, Yiyu Shi <br>
-The 60th IEEE/ACM Design Automation Conference (DAC), 2023. <br>
+The 60th IEEE/ACM Design Automation Conference (DAC), 2023 (acceptance rate 22.7%) <br>
 
 Journal
 -----
