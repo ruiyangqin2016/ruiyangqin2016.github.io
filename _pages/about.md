@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ======
-My name is Ruiyang Qin. Currently, I am a second-year Ph.D. student in the Department of Computer Science and Engineering at University of Notre Dame, fortunately advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). I also work closely with Professor [Ahmed Abbasi](https://mendoza.nd.edu/mendoza-directory/profile/ahmed-abbasi/) in analytics and operations. I obtained my B.S. and M.S. degrees in Computer Science from Georgia Institute of Technology in 2020 and 2021. My research interests include on-device learning and personalized deep learning in healthcare.
+My name is Ruiyang Qin. Currently, I am a second-year Ph.D. student in the Department of Computer Science and Engineering at University of Notre Dame, fortunately advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). I obtained my B.S. and M.S. degrees in Computer Science from Georgia Institute of Technology in 2020 and 2021. My research interests include on-device learning and personalized deep learning in healthcare.
 
 [Click to view my cv](https://ruiyangqin2016.github.io/Resume.pdf)
 
