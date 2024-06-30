@@ -18,8 +18,8 @@ Publications
 
 Conferences
 -----
-[Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures](https://arxiv.org/pdf/2405.04700) <be>
-Ruiyang Qin, Zheyu Yan, Dewen Zeng, Zhenge Jia, Dancheng Liu, Jianbo Liu, Zhi Zheng, Ningyuan Cao, Kai Ni, Jinjun Xiong, Yiyu Shi
+[Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures](https://arxiv.org/pdf/2405.04700) <br>
+Ruiyang Qin, Zheyu Yan, Dewen Zeng, Zhenge Jia, Dancheng Liu, Jianbo Liu, Zhi Zheng, Ningyuan Cao, Kai Ni, Jinjun Xiong, Yiyu Shi <br>
 The 43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024 (acceptance rate 24.2%) <br>
 
 [Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis](https://arxiv.org/pdf/2311.12275.pdf) <br>
