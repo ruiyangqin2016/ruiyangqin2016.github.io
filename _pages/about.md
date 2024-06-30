@@ -32,6 +32,7 @@ Review Services
 - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
 - IEEE Intelligent Systems
 - Conference on Neural Information Processing Systems (NeurIPS)
+- Association for the Advancement of Artificial Intelligence (AAAI)
 
 Awards
 ======
