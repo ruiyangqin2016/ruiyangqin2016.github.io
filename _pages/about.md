@@ -36,8 +36,8 @@ Review Services
 
 Awards
 ======
-- DAC fellowship, 2024, USA
-- DAC fellowship, 2023, USA
+- DAC Young Fellow, 2024, USA
+- DAC Young Fellow, 2023, USA
 
 Teaching (as Teaching Assistant)
 ======
