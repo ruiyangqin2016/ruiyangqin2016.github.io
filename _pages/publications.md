@@ -18,6 +18,10 @@ Publications
 
 Conferences
 -----
+[An Adaptive System for Wearable Devices to Detect Stress Using Physiological Signals](https://arxiv.org/pdf/2407.15252) <br>
+Gelei Xu, **Ruiyang Qin**, Zhi Zheng, Yiyu Shi <br>
+PhysioCHI: Towards Best Practices for Integrating Physiological Signals in HCI, 2024 <br>
+
 [Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures](https://arxiv.org/pdf/2405.04700) <br>
 **Ruiyang Qin**, Zheyu Yan, Dewen Zeng, Zhenge Jia, Dancheng Liu, Jianbo Liu, Zhi Zheng, Ningyuan Cao, Kai Ni, Jinjun Xiong, Yiyu Shi <br>
 The 43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024 (acceptance rate 24.2%) <br>
