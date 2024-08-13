@@ -44,7 +44,7 @@ The 60th IEEE/ACM Design Automation Conference (DAC), 2023 (acceptance rate 22.7
 
 Journal
 -----
-Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews <br>
+[Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews](https://dl.acm.org/doi/10.1145/3673906) <br>
 **Ruiyang Qin\***, Ryan Cook\*, Kai Yang, Ahmed Abbasi, David Dobolyi, Salman Seyedi, Emily Griner, Hyeokhyen Kwon, Robert O. Cotes, Zifan Jiang, Gari D. Clifford <br>
 ACM Transactions on Management Information Systems (TMIS)
 
