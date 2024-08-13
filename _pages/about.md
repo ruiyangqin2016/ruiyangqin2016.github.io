@@ -20,9 +20,9 @@ News
 - 2024/08 Currently visiting at [X-Lab](https://www.xlab-ub.com/) at [Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html), supervised by [Professor Xiong](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xiong-jinjun.detail.html)
 - 2024/08 Being selected as an [Edison Innovation Fellow](https://ideacenter.nd.edu/se/opportunities/internships/idea-center-edison-innovation-fellowship/) for the 2024/2025 academic year!
 - 2024/07 Passed my oral candidacy, now I am officially a PhD student. Many thanks to my committee members and my advisor!
-- 2024/06 One paper is accepted by [ICCAD](https://2024.iccad.com/)
-- 2024/06 One paper is accepted by [TOIS](https://dl.acm.org/journal/tois) 
-- 2024/06 One paper is accepted by [TMIS](https://dl.acm.org/journal/tmis). (Its pdf version is coming soon)
+- 2024/06 One paper is accepted by [ICCAD](https://2024.iccad.com/).
+- 2024/06 One paper is accepted by [TOIS](https://dl.acm.org/journal/tois).
+- 2024/06 One paper is accepted by [TMIS](https://dl.acm.org/journal/tmis).
 - 2024/03 Receive Gemma Academic Program GCP Credit Aware up to $15,000 from Google. 
 - 2024/02 One [paper](https://arxiv.org/pdf/2311.12275.pdf) is accepted by [2024 61th DAC](https://www.dac.com/Conference/2024-Call-for-Contributions). 
 - 2024/01 One [invited paper](https://arxiv.org/pdf/2402.06696.pdf) is presented at [2024 29th ASP-DAC](https://www.aspdac.com/aspdac/committee/oc2024/). 
