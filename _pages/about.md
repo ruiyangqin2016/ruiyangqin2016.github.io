@@ -15,9 +15,10 @@ My name is Ruiyang Qin. Currently, I am a second-year Ph.D. student (Aug 2022 - 
 
 [Click to view my cv](https://ruiyangqin2016.github.io/Resume.pdf)
 
+**[NOTE] Starting from Aug 2024, I am visiting [X-Lab](https://www.xlab-ub.com/) at [Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html), supervised by [Professor Xiong](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xiong-jinjun.detail.html)**
+
 News
 ======
-- 2024/08 Currently visiting at [X-Lab](https://www.xlab-ub.com/) at [Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html), supervised by [Professor Xiong](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xiong-jinjun.detail.html)
 - 2024/08 Being selected as an [Edison Innovation Fellow](https://ideacenter.nd.edu/se/opportunities/internships/idea-center-edison-innovation-fellowship/) for the 2024/2025 academic year!
 - 2024/07 Passed my oral candidacy, **now I am officially a PhD student**. Many thanks to my committee members and my advisor!
 - 2024/06 One paper is accepted by [ICCAD](https://2024.iccad.com/).
