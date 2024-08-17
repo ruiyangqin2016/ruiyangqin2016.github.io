@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ======
-My name is Ruiyang Qin. Currently, I am a second-year Ph.D. student (Aug 2022 - Now) in the Department of Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), fortunately advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). I obtained my B.S. and M.S. degrees in Computer Science from [Georgia Institute of Technology](https://www.cc.gatech.edu/) in 2020 and 2021. My research interests include **on-device learning** and **personalized deep learning in healthcare**.
+My name is Ruiyang Qin. Currently, I am a second-year Ph.D. student (Aug 2022 - Now) in the Department of Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), fortunately advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). I obtained my B.S. and M.S. degrees in Computer Science from [Georgia Institute of Technology](https://www.cc.gatech.edu/) in 2020 and 2021. My research interests include **Edge AI** and **Emerging Technologies**. For my detailed research objectives, please see my CV.
 
 [Click to view my cv](https://ruiyangqin2016.github.io/Resume.pdf)
 
@@ -43,6 +43,11 @@ Awards
 - Edison Innovation Fellow, 2024, USA
 - DAC Young Fellow, 2024, USA
 - DAC Young Fellow, 2023, USA
+
+Invited Talks
+======
+"LLM Distillation and Quantization".
+- University of Notre Dame, Nov 2024.
 
 Teaching (as Teaching Assistant)
 ======
