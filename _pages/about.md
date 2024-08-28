@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ======
-My name is Ruiyang Qin. Currently, I am a Ph.D. student (Aug 2022 - Now) in the Department of Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), fortunately advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). I obtained my B.S. and M.S. degrees in Computer Science from [Georgia Institute of Technology](https://www.cc.gatech.edu/) in 2020 and 2021. My research interests include **Edge AI** and **Emerging Technologies**. For my detailed research objectives, please see my CV.
+My name is Ruiyang Qin. Currently, I am a Ph.D. candidate (Aug 2022 - Now) in the Department of Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), fortunately advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). I obtained my B.S. and M.S. degrees in Computer Science from [Georgia Institute of Technology](https://www.cc.gatech.edu/) in 2020 and 2021. My research interests include **Edge AI** and **Emerging Technologies**. For my detailed research objectives, please see my CV.
 
 [Click to view my cv](https://ruiyangqin2016.github.io/Resume.pdf)
 
@@ -20,7 +20,7 @@ My name is Ruiyang Qin. Currently, I am a Ph.D. student (Aug 2022 - Now) in the 
 News
 ======
 - 2024/08 Being selected as an [Edison Innovation Fellow](https://ideacenter.nd.edu/se/opportunities/internships/idea-center-edison-innovation-fellowship/) for the 2024/2025 academic year!
-- 2024/07 Passed my oral candidacy. Many thanks to my committee members and my advisor!
+- 2024/07 Passed my oral candidacy. Now I am a PhD candidate. Many thanks to my committee members and my advisor!
 - 2024/06 One paper is accepted by [ICCAD](https://2024.iccad.com/).
 - 2024/06 One paper is accepted by [TOIS](https://dl.acm.org/journal/tois).
 - 2024/06 One paper is accepted by [TMIS](https://dl.acm.org/journal/tmis).
