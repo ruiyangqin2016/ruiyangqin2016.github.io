@@ -11,9 +11,7 @@ redirect_from:
 
 Biography
 ======
-My name is Ruiyang Qin. Currently, I am a Ph.D. candidate (Aug 2022 - Now) in the Department of Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), fortunately advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). I obtained my B.S. and M.S. degrees in Computer Science from [Georgia Institute of Technology](https://www.cc.gatech.edu/) in 2020 and 2021. My research interests include **Edge AI** and **Emerging Technologies**. For my detailed research objectives, please see my CV.
-
-[Click to view my cv](https://ruiyangqin2016.github.io/Resume.pdf)
+My name is Ruiyang Qin. Currently, I am a Ph.D. candidate (Aug 2022 - Now) in the Department of Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), fortunately advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). I obtained my B.S. and M.S. degrees in Computer Science from [Georgia Institute of Technology](https://www.cc.gatech.edu/) in 2020 and 2021. My research interests include **Edge AI** and **Emerging Technologies**. For my detailed research objectives, please [check my cv here](https://ruiyangqin2016.github.io/Resume.pdf).
 
 **[NOTE] Starting from Aug 2024, I am visiting [X-Lab](https://www.xlab-ub.com/) at [Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html), supervised by [Professor Xiong](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xiong-jinjun.detail.html)**
 
