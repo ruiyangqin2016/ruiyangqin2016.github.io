@@ -38,6 +38,7 @@ Review Services
 
 Awards
 ======
+- Notre Dame Notebaert Professional Development Fund, 2024, USA
 - Edison Innovation Fellow, 2024, USA
 - DAC Young Fellow, 2024, USA
 - DAC Young Fellow, 2023, USA
