@@ -17,16 +17,17 @@ My name is Ruiyang Qin. Currently, I am a Ph.D. candidate (Aug 2022 - Now) in th
 
 News
 ======
+- 2024/10 Receiving academic fellowship from [Institute for Artificial Intelligence and Data Science](https://www.buffalo.edu/ai-data-science.html) (IAD) at University at Buffalo
 - 2024/08 Being selected as an [Edison Innovation Fellow](https://ideacenter.nd.edu/se/opportunities/internships/idea-center-edison-innovation-fellowship/) for the 2024/2025 academic year!
 - 2024/07 Passed my oral candidacy. Now I am a PhD candidate. Many thanks to my committee members and my advisor!
 - 2024/06 One paper is accepted by [ICCAD](https://2024.iccad.com/).
 - 2024/06 One paper is accepted by [TOIS](https://dl.acm.org/journal/tois).
 - 2024/06 One paper is accepted by [TMIS](https://dl.acm.org/journal/tmis).
 - 2024/03 Receive Gemma Academic Program GCP Credit Aware up to $15,000 from Google. 
-- 2024/02 One [paper](https://arxiv.org/pdf/2311.12275.pdf) is accepted by [2024 61th DAC](https://www.dac.com/Conference/2024-Call-for-Contributions). 
-- 2024/01 One [invited paper](https://arxiv.org/pdf/2402.06696.pdf) is presented at [2024 29th ASP-DAC](https://www.aspdac.com/aspdac/committee/oc2024/). 
-- 2023/03 One [paper](https://ieeexplore.ieee.org/abstract/document/10309342) is accepted by [2023 32nd RO-MAN](https://ro-man2023.org/main).
-- 2023/02 One [paper](https://ieeexplore.ieee.org/iel7/10247654/10247655/10247923.pdf) is accepted by [2024 60th DAC](https://www.dac.com/About/Conference-Archive/60th-DAC-2023). 
+- 2024/02 One paper is accepted by [DAC](https://www.dac.com/Conference/2024-Call-for-Contributions). 
+- 2024/01 One paper is presented at [ASP-DAC](https://www.aspdac.com/aspdac/committee/oc2024/). 
+- 2023/03 One paper is accepted by [RO-MAN](https://ro-man2023.org/main).
+- 2023/02 One paper is accepted by [DAC](https://www.dac.com/About/Conference-Archive/60th-DAC-2023). 
 - 2022/09 Join [Sustainable Computing Laboratory (SCL)](https://www3.nd.edu/~scl/index.html) at University of Notre Dame.
 
 Review Services 
@@ -41,6 +42,7 @@ Review Services
 
 Awards
 ======
+- IAD Academic Fellowship from University at Buffalo, 2024, USA
 - Notre Dame Notebaert Professional Development Fund, 2024, USA
 - Edison Innovation Fellow, 2024, USA
 - DAC Young Fellow, 2024, USA
