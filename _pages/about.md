@@ -17,7 +17,7 @@ My name is Ruiyang Qin. Currently, I am a Ph.D. candidate (Aug 2022 - Now) in th
 
 News
 ======
-- 2024/10 Receiving **Best Paper Nomination** from ICCAD 2024!
+- 2024/10 Receiving **best paper nomination** from ICCAD 2024!
 - 2024/10 Receiving **academic fellowship** from [Institute for Artificial Intelligence and Data Science](https://www.buffalo.edu/ai-data-science.html) (IAD) at University at Buffalo
 - 2024/08 Being selected as an [Edison Innovation Fellow](https://ideacenter.nd.edu/se/opportunities/internships/idea-center-edison-innovation-fellowship/) for the 2024/2025 academic year!
 - 2024/07 Passed my **oral candidacy**. Now I am a PhD candidate. Many thanks to my committee members and my advisor!
@@ -43,7 +43,7 @@ Review Services
 
 Awards
 ======
-- William J. McCalla Best Paper Nomination at ICCAD (10 out of 850 submissions), 2024, USA
+- William J. McCalla Best Paper Nomination at ICCAD (10 out of 802 submissions), 2024, USA
 - IAD Academic Fellowship from University at Buffalo, 2024, USA
 - Notre Dame Notebaert Professional Development Fund, 2024, USA
 - Edison Innovation Fellow, 2024, USA
