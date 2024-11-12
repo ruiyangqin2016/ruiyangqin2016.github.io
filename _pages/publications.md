@@ -23,7 +23,7 @@ NVCiM-PT: An NVCiM-assisted Prompt Tuning Framework for Edge LLMs <br>
 The 28rd Design, Automation and Test in Europe Conference (DATE), 2025 <br>
 
 Enabling Memory-Efficient On-Device Learning via Dataset Condensation <br>
-Gelei Xu, Ningzhi Tang, Jun Xia, **Ruiyang Qin**, Wei Jin and Yiyu Shi <br>
+Gelei Xu, Ningzhi Tang, Jun Xia, **Ruiyang Qin**, Wei Jin, Yiyu Shi <br>
 The 28rd Design, Automation and Test in Europe Conference (DATE), 2025 <br>
 
 [An Adaptive System for Wearable Devices to Detect Stress Using Physiological Signals](https://arxiv.org/pdf/2407.15252) <br>
