@@ -17,6 +17,7 @@ My name is Ruiyang Qin. Currently, I am a Ph.D. candidate (Aug 2022 - Now) in th
 
 News
 ======
+- 2024/11 Two papers are accepted by **DATE 2025**.
 - 2024/10 Receiving **best paper nomination** from ICCAD 2024!
 - 2024/10 Receiving **academic fellowship** from [Institute for Artificial Intelligence and Data Science](https://www.buffalo.edu/ai-data-science.html) (IAD) at University at Buffalo
 - 2024/08 Being selected as an [Edison Innovation Fellow](https://ideacenter.nd.edu/se/opportunities/internships/idea-center-edison-innovation-fellowship/) for the 2024/2025 academic year!
