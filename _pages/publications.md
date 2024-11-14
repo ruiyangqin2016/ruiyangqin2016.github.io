@@ -18,7 +18,7 @@ Publications
 
 Conferences
 -----
-NVCiM-PT: An NVCiM-assisted Prompt Tuning Framework for Edge LLMs <br>
+[NVCiM-PT: An NVCiM-assisted Prompt Tuning Framework for Edge LLMs](https://arxiv.org/pdf/2411.08244) <br>
 **Ruiyang Qin**, Pengyu Ren, Zheyu Yan, Liu Liu, Dancheng Liu, Amir Nassereldine, Jinjun Xiong, Kai Ni, Sharon Hu, Yiyu Shi <br>
 The 28rd Design, Automation and Test in Europe Conference (DATE), 2025 <br>
 
