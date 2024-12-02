@@ -16,6 +16,8 @@ Dynamic publications list was here. Replaced with static Markdown content.
 Publications
 =====
 
+[Google Scholar](https://scholar.google.ca/citations?user=c26FtWIAAAAJ&hl=en)
+
 Conferences
 -----
 [NVCiM-PT: An NVCiM-assisted Prompt Tuning Framework for Edge LLMs](https://arxiv.org/pdf/2411.08244) <br>
