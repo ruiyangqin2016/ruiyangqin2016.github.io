@@ -67,4 +67,5 @@ Under Review
 [Empirical Guidelines for Deploying LLMs onto Resource-constrained Edge Devices](https://arxiv.org/pdf/2406.03777) <br>
 **Ruiyang Qin**, Dancheng Liu, Zheyu Yan, Zhaoxuan Tan, Zixuan Pan, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Jinjun Xiong, Yiyu Shi <br>
 
-
+[Tiny-Align: Bridging Automatic Speech Recognition and Large Language Model on the Edge] <br>
+**Ruiyang Qin**, Dancheng Liu, Gelei Xu, Zheyu Yan, Chenhui Xu, Yuting Hu, X Sharon Hu, Jinjun Xiong, Yiyu Shi <br>
