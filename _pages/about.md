@@ -55,6 +55,8 @@ Invited Talks
 ======
 "LLM Distillation and Quantization".
 - University of Notre Dame, Nov 2024.
+"Efficient Deployment of Large Language Models on Resource-Constrained Edge Computing Platforms"
+- Tutorial at ASP-DAC 2025
 
 Teaching (as Teaching Assistant)
 ======
