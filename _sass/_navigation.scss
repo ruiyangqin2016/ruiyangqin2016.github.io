@@ -19,13 +19,13 @@
   -webkit-animation-delay: 0.30s;
           animation-delay: 0.30s;
 
-  @include breakpoint($xx-large) {
+  @include breakpoint($large) {
     padding-left: 1em;
     padding-right: 1em;
   }
 
-  @include breakpoint($xx-large) {
-    max-width: $xx-large;
+  @include breakpoint($x-large) {
+    max-width: $x-large;
   }
 
   ol {
@@ -33,11 +33,11 @@
     list-style: none;
     font-size: $type-size-6;
 
-    @include breakpoint($xx-large) {
+    @include breakpoint($x-large) {
       @include span(10 of 12 last);
     }
 
-    @include breakpoint($xx-large) {
+    @include breakpoint($x-large) {
       @include prefix(0.5 of 12);
     }
   }
