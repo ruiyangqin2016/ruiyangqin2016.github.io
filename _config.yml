@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ruiyang Qin"
   pronouns         : # example: "she/her"  
-  bio              : "CSE Ph.D. student, University of Notre Dame"
+  bio              : # "CSE Ph.D. student, University of Notre Dame"
   location         : "South Bend, IN"
   employer         : # "University of Notre Dame"
   uri              : # URL
