@@ -19,7 +19,7 @@
   -webkit-animation-delay: 0.30s;
           animation-delay: 0.30s;
 
-  @include breakpoint($x-large) {
+  @include breakpoint($xx-large) {
     padding-left: 1em;
     padding-right: 1em;
   }
