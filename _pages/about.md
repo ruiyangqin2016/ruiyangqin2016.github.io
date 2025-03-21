@@ -17,7 +17,8 @@ My name is Ruiyang Qin. Currently, I am a Ph.D. candidate (Aug. 2022 - May 2025)
 
 Research Interests
 ======
-My research interests include on-device AI, emerging semiconductor devices for LLM/DL acceleration, hardware/software co-design, and other areas related to hardware and machine learning systems. My current research focuses on edge AI, emerging semiconductor devices, and their applications on medical/healthcare domains. My general research goal is to build upthe efficient, affordable, and well-performed personalized edge AI healthcare systems.
+- My research interests include on-device AI, emerging semiconductor devices for LLM/DL acceleration, hardware/software co-design, and other areas related to hardware and machine learning systems.
+- My current research focuses on edge AI, emerging semiconductor devices, and their applications on medical/healthcare domains.
 
 
 News
