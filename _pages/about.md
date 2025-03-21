@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ======
-My name is Ruiyang Qin. Currently, I am a Ph.D. candidate (Aug. 2022 - May 2025) in the Department of Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), fortunately advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). I obtained my B.S. and M.S. degrees in Computer Science from [Georgia Institute of Technology](https://www.cc.gatech.edu/) in 2020 and 2021. For my detailed research objectives, please [check my cv here](https://ruiyangqin2016.github.io/Resume.pdf).
+My name is Ruiyang Qin. Currently, I am a Ph.D. candidate in the Department of Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), fortunately advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). I obtained my B.S. and M.S. degrees in Computer Science from [Georgia Institute of Technology](https://www.cc.gatech.edu/) in 2020 and 2021. For my detailed research objectives, please [check my cv here](https://ruiyangqin2016.github.io/Resume.pdf).
 
 **I will join ECE Department of Villanova University as an Assistant Professor in Fall 2025. I am looking for self-motivated Ph.D./M.S/intern students starting from Fall 2025 and Spring 2026. Preferred background in EE, ECE, and CS. If you are interested in working with me, please directly send me an email with your CV. My email address is rqin@nd.edu**
 
