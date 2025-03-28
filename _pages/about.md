@@ -11,16 +11,22 @@ redirect_from:
 
 Biography
 ======
-My name is Ruiyang Qin. Currently, I am a Ph.D. candidate in the Department of Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), fortunately advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). I obtained my B.S. and M.S. degrees in Computer Science from [Georgia Institute of Technology](https://www.cc.gatech.edu/) in 2020 and 2021. For my detailed research objectives, please [check my cv here](https://ruiyangqin2016.github.io/Resume.pdf).
+My name is Ruiyang Qin. I am an Assistant Professor in ECE at Villanova University. I obtained my Ph.D. from University of Notre Dame, advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). Additionally, I closely work with Professor [Sharon Hu](https://engineering.nd.edu/faculty/xiaobo-sharon-hu/) and Professor [Kai Ni](https://engineering.nd.edu/faculty/kai-ni/). I obtained my B.S. and M.S. degrees in Computer Science from [Georgia Institute of Technology](https://www.cc.gatech.edu/) in 2020 and 2021. For my detailed research objectives, please [check my cv here](https://ruiyangqin2016.github.io/Resume.pdf).
 
-**I will join ECE Department of Villanova University as an Assistant Professor in Fall 2025. I am looking for self-motivated Ph.D./M.S/intern students starting from Fall 2025 and Spring 2026. Preferred background in EE, ECE, and CS. If you are interested in working with me, please directly send me an email with your CV. My email address is rqin@nd.edu**
+**I am looking for self-motivated Ph.D./M.S/intern students starting from Fall 2025 and Spring 2026. Preferred background in EE, ECE, and CS. If you are interested in working with me, please directly send me an email with your CV. My email address is rqin@nd.edu**
 
 Research Interests
 ======
-- My research interests include on-device AI, emerging semiconductor devices for LLM/DL acceleration, hardware/software co-design, and other areas related to hardware and machine learning systems.
-- My current research focuses on edge AI, emerging semiconductor devices, and their applications on medical/healthcare domains.
+**Post-CMOS Systems and Design**: 
+- In-Memory Computing (i.e., Crossbar)
+- Content Addressable Memory
+- Ferroelectric Transistors (FeFET)
 
+**Deep Learning**: 
+- On-Device AI
+- Emerging Semiconductor Devices for LLM/DL Acceleration
 
+  
 News
 ======
 - 2025/01 Delighted to give an invited talk at ECE@Villanova University
