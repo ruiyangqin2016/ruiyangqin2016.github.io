@@ -29,8 +29,9 @@ Research Interests
   
 News
 ======
+- 2025/03 Will join [ECE](https://www1.villanova.edu/university/engineering/academic-programs/departments/electrical-computer.html) at Villanova University as an **Assistant Professor**! 
 - 2025/03 Successfully passed my Ph.D. defense!
-- 2025/01 One paper is accepted by **ICLR 2025** as Spotlight (3.20%)!
+- 2025/01 One paper is accepted by **ICLR 2025** as **Spotlight** (3.20%)!
 - 2025/01 Delighted to give an invited talk at ECE@Villanova University
 - 2024/11 Two papers are accepted by **DATE 2025**.
 - 2024/10 Receiving **best paper nomination** from ICCAD 2024 (1.24%)!
