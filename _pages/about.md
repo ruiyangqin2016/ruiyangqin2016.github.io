@@ -32,7 +32,7 @@ Education
   - B.S./M.S. in CS (Aug 2017 - May 2021)
     
 **University of Notre Dame**
-  - Ph.D in CSE (Aug 2022 - May 2025)
+  - Ph.D. in CSE (Aug 2022 - May 2025)
   - Adviser: Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director)
     
 News
