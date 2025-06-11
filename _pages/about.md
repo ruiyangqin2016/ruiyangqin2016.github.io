@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ======
-My name is Ruiyang Qin (秦睿阳). I will join the ECE Department at [Villanova University](https://www1.villanova.edu/university/engineering/academic-programs/departments/electrical-computer.html) as an Assistant Professor in August 2025. I obtained my Ph.D. from University of Notre Dame (Aug 2022 - May 2025), advised by Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director). Additionally, I closely work with Professor [Sharon Hu](https://engineering.nd.edu/faculty/xiaobo-sharon-hu/) (ND), Professor [Kai Ni](https://engineering.nd.edu/faculty/kai-ni/) (ND), and Professor [Jinjun Xiong](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xiong-jinjun.detail.html) (University at Buffalo). I obtained my B.S. (Aug 2017 - May 2020) and M.S. (Aug 2020 - May 2021) degrees in Computer Science from Georgia Institute of Technology. I received a **Best Paper Award nomination** at the IEEE/ACM International Conference on Computer-Aided Design (ICCAD) in 2024 and a **Spotlight** at the International Conference on Learning Representations (ICLR) in 2025. For my detailed research objectives, please [check my cv here](https://ruiyangqin2016.github.io/Resume.pdf).
+My name is Ruiyang Qin (秦睿阳). I will join the ECE Department at [Villanova University](https://www1.villanova.edu/university/engineering/academic-programs/departments/electrical-computer.html) as an Assistant Professor in August 2025. I work closely with Professor [Sharon Hu](https://engineering.nd.edu/faculty/xiaobo-sharon-hu/) (ND), Professor [Kai Ni](https://engineering.nd.edu/faculty/kai-ni/) (ND), and Professor [Jinjun Xiong](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xiong-jinjun.detail.html) (University at Buffalo). I received a **Best Paper Award nomination** at the IEEE/ACM International Conference on Computer-Aided Design (ICCAD) in 2024 and a **Spotlight** at the International Conference on Learning Representations (ICLR) in 2025. For my detailed research objectives, please [check my cv here](https://ruiyangqin2016.github.io/Resume.pdf).
 
 **I am looking for self-motivated Ph.D./M.S/intern students starting from Fall 2025 and Spring 2026. Preferred background in EE, ECE, and CS. If you are interested in working with me, please directly send me an email with your CV. My email address is rqin@nd.edu**
 
@@ -26,9 +26,19 @@ Research Interests
 - On-Device AI
 - Emerging Semiconductor Devices for LLM/DL Acceleration
 
-  
+Education
+======
+**Georgia Institute of Technology**
+  - B.S./M.S. in CS (Aug 2017 - May 2021)
+    
+**University of Notre Dame**
+  - Ph.D in CSE (Aug 2022 - May 2025)
+  - Adviser: Professor [Yiyu Shi](https://www3.nd.edu/~scl/index.html#director)
+    
 News
 ======
+- 2025/05 One paper is accepted by **ACL 2025**.
+- 2025/05 One paper is accepted by **TODAES**.
 - 2025/05 One paper is accepted by **ICML 2025**.
 - 2025/03 Will join [ECE](https://www1.villanova.edu/university/engineering/academic-programs/departments/electrical-computer.html) at Villanova University as an **Assistant Professor**! 
 - 2025/03 Successfully passed my Ph.D. defense!
