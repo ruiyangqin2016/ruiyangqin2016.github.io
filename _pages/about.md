@@ -37,24 +37,25 @@ Education
     
 News
 ======
+- 2025/06 One paper is accepted by **ICCAD 2025** (acceptance rate: 24.7%).
 - 2025/05 One paper is accepted by **ACL 2025**.
 - 2025/05 One paper is accepted by **TODAES**.
-- 2025/05 One paper is accepted by **ICML 2025**.
+- 2025/05 One paper is accepted by **ICML 2025** (acceptance rate: 26.9%).
 - 2025/03 Will join [ECE](https://www1.villanova.edu/university/engineering/academic-programs/departments/electrical-computer.html) at Villanova University as an **Assistant Professor**! 
 - 2025/03 Successfully passed my Ph.D. defense!
 - 2025/01 One paper is accepted by **ICLR 2025** as **Spotlight** (3.20%)!
 - 2025/01 Delighted to give an invited talk at ECE@Villanova University
-- 2024/11 Two papers are accepted by **DATE 2025**.
+- 2024/11 Two papers are accepted by **DATE 2025**  (acceptance rate: 25%).
 - 2024/10 Receiving **best paper nomination** from ICCAD 2024 (1.24%)!
 - 2024/10 Receiving **academic fellowship** from [Institute for Artificial Intelligence and Data Science](https://www.buffalo.edu/ai-data-science.html) (IAD) at University at Buffalo
 - 2024/08 Visiting [X-Lab](https://www.xlab-ub.com/) at [Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html), supervised by [Professor Xiong](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xiong-jinjun.detail.html)
 - 2024/08 Being selected as an [Edison Innovation Fellow](https://ideacenter.nd.edu/se/opportunities/internships/idea-center-edison-innovation-fellowship/) for the 2024/2025 academic year!
 - 2024/07 Passed my **oral candidacy**. Now I am a PhD candidate. Many thanks to my committee members and my advisor!
-- 2024/06 One paper is accepted by **ICCAD 2024**.
+- 2024/06 One paper is accepted by **ICCAD 2024**  (acceptance rate: 24%).
 - 2024/06 One paper is accepted by **TOIS**.
 - 2024/06 One paper is accepted by **TMIS**.
 - 2024/03 Receive Gemma Academic Program GCP Credit Aware up to $15,000 from Google. 
-- 2024/02 One paper is accepted by **DAC 2024**.
+- 2024/02 One paper is accepted by **DAC 2024**  (acceptance rate: 21.8%).
 - 2024/01 One paper is presented at **ASP-DAC 2024**.
 - 2023/03 One paper is accepted by **RO-MAN 2023**.
 - 2023/02 One paper is accepted by **DAC 2023**.
