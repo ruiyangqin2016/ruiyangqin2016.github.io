@@ -16,7 +16,7 @@ Dynamic publications list was here. Replaced with static Markdown content.
 Publications
 =====
 
-[Google Scholar](https://scholar.google.ca/citations?user=c26FtWIAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=u5qQX9UAAAAJ&hl=en&authuser=2)
 
 Conferences
 -----
