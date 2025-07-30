@@ -75,7 +75,8 @@ Review Services
 - Journal of Medical Internet Research (JMIR)
 - International Conference on Learning Representations (ICLR)
 - Artificial Intelligence and Statistics (AISTATS)
-- Scientific Report
+- Nature Scientific Report
+- Nautre Machine Intelligence
 - IEEE International Conference on Computer Design (ICCD)
 - International Conference on Computer-Aided Design (ICCAD)
 
