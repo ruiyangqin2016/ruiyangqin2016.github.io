@@ -8,14 +8,18 @@ author_profile: true
 Principal Investigator (PI)
 ======
 **Ruiyang Qin, Ph.D.**  
-Assistant Professor, Department of Electrical and Computer Engineering, Villanova University  
-Research interests: Edge AI, Compute-in-Memory (CiM), Content-Addressable Memory (CAM), AI for EDA, Healthcare AI.  
+Assistant Professor (Starting Aug 2025), ECE at Villanova University  
+PhD Student (Sep 2022 - May 2025), CSE at University of Notre Dame
+
 
 Recruitment
 ======
-We are actively recruiting **Ph.D. students** (starting Fall 2025 and beyond).  
-If you are interested in **AI + Hardware co-design, Edge AI, Emerging Memory Devices (FeFET, RRAM, 2T0C, 3D stacking), or AI for EDA/Healthcare**, please contact **[rqin@villanova.edu](mailto:rqin@villanova.edu)** with your CV and transcripts.  
-Motivated **M.S. and undergraduate students** at Villanova are also welcome to join.  
+We are actively recruiting 
+- Ph.D. students with RA/TA (1-2 for Spring/Fall 2026)
+- M.S. students with RA/TA
+- Undergraduates and Interns are also welcome
+  
+If you are interested, please contact **[rqin@villanova.edu](mailto:rqin@villanova.edu)** with your CV and transcripts.  
 
 
 Ph.D. Students
