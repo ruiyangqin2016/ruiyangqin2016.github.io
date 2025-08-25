@@ -14,7 +14,7 @@ Research interests: Edge AI, Compute-in-Memory (CiM), Content-Addressable Memory
 Recruitment
 ======
 We are actively recruiting **Ph.D. students** (starting Fall 2025 and beyond).  
-If you are interested in **AI + Hardware co-design, Edge AI, Emerging Memory Devices (FeFET, RRAM, 2T0C, 3D stacking), or AI for EDA/Healthcare**, please contact **[rqin@nd.edu](mailto:rqin@nd.edu)** with your CV and transcripts.  
+If you are interested in **AI + Hardware co-design, Edge AI, Emerging Memory Devices (FeFET, RRAM, 2T0C, 3D stacking), or AI for EDA/Healthcare**, please contact **[rqin@villanova.edu](mailto:rqin@villanova.edu)** with your CV and transcripts.  
 Motivated **M.S. and undergraduate students** at Villanova are also welcome to join.  
 
 
