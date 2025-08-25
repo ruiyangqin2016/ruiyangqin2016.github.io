@@ -20,6 +20,22 @@ Publications
 
 Conferences
 -----
+[Textagon: Boosting Language Models with Theory-guided Parallel Representations](https://aclanthology.org/2025.acl-demo.9/) <br>
+John P. Lalor, **Ruiyang Qin**, David Dobolyi, Ahmed Abbasi <br>
+The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) - System Demonstrations, 2025
+
+[Tiny-Align: Bridging Automatic Speech Recognition and Large Language Model on the Edge](https://arxiv.org/abs/2411.13766) <br>
+**Ruiyang Qin**, Dancheng Liu, Gelei Xu, Zheyu Yan, Chenhui Xu, Yuting Hu, X Sharon Hu, Jinjun Xiong, Yiyu Shi <br>
+The 44rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2025 (acceptance rate 24.7%)
+
+[Sub-Sequential Physics-Informed Learning with State Space Model](https://arxiv.org/abs/2502.00318) <br>
+Chenhui Xu, Dancheng Liu, Yuting Hu, Jiajie Li, **Ruiyang Qin**, Qingxiao Zheng, Jinjun Xiong <br>
+International Conference on Machine Learning (ICML), 2025
+
+[Recognize Any Surgical Object: Unleashing the Power of Weakly-Supervised Data](https://arxiv.org/abs/2501.15326) <br>
+Jiajie Li, Brian R Quaranto, Chenhui Xu, Ishan Mishra, **Ruiyang Qin**, Dancheng Liu, Peter CW Kim, Jinjun Xiong <br>
+International Conference on Learning Representations (ICLR), 2025
+
 [NVCiM-PT: An NVCiM-assisted Prompt Tuning Framework for Edge LLMs](https://arxiv.org/pdf/2411.08244) <br>
 **Ruiyang Qin**, Pengyu Ren, Zheyu Yan, Liu Liu, Dancheng Liu, Amir Nassereldine, Jinjun Xiong, Kai Ni, Sharon Hu, Yiyu Shi <br>
 The 28rd Design, Automation and Test in Europe Conference (DATE), 2025 (acceptance rate 25%) <br>
@@ -54,6 +70,10 @@ The 60th IEEE/ACM Design Automation Conference (DAC), 2023 (acceptance rate 22.7
 
 Journal
 -----
+[Empirical Guidelines for Deploying LLMs onto Resource-constrained Edge Devices](https://dl.acm.org/doi/full/10.1145/3736721) <br>
+**Ruiyang Qin**, Dancheng Liu, Zheyu Yan, Zhaoxuan Tan, Zixuan Pan, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Jinjun Xiong, Yiyu Shi <br>
+ACM Transactions on Design Automation of Electronic Systems (TODAES)
+
 [Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews](https://dl.acm.org/doi/10.1145/3673906) <br>
 **Ruiyang Qin\***, Ryan Cook\*, Kai Yang, Ahmed Abbasi, David Dobolyi, Salman Seyedi, Emily Griner, Hyeokhyen Kwon, Robert O. Cotes, Zifan Jiang, Gari D. Clifford <br>
 ACM Transactions on Management Information Systems (TMIS)
@@ -64,8 +84,5 @@ ACM Transactions on Information Systems (TOIS)
 
 Under Review
 -----
-[Empirical Guidelines for Deploying LLMs onto Resource-constrained Edge Devices](https://arxiv.org/pdf/2406.03777) <br>
-**Ruiyang Qin**, Dancheng Liu, Zheyu Yan, Zhaoxuan Tan, Zixuan Pan, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Jinjun Xiong, Yiyu Shi <br>
 
-[Tiny-Align: Bridging Automatic Speech Recognition and Large Language Model on the Edge](https://arxiv.org/abs/2411.13766) <br>
-**Ruiyang Qin**, Dancheng Liu, Gelei Xu, Zheyu Yan, Chenhui Xu, Yuting Hu, X Sharon Hu, Jinjun Xiong, Yiyu Shi <br>
+
