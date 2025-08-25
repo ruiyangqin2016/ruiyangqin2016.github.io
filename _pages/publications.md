@@ -36,11 +36,11 @@ International Conference on Machine Learning (ICML), 2025
 Jiajie Li, Brian R Quaranto, Chenhui Xu, Ishan Mishra, **Ruiyang Qin**, Dancheng Liu, Peter CW Kim, Jinjun Xiong <br>
 International Conference on Learning Representations (ICLR), 2025
 
-[NVCiM-PT: An NVCiM-assisted Prompt Tuning Framework for Edge LLMs](https://arxiv.org/pdf/2411.08244) <br>
+[NVCiM-PT: An NVCiM-assisted Prompt Tuning Framework for Edge LLMs](https://ieeexplore.ieee.org/abstract/document/10993249) <br>
 **Ruiyang Qin**, Pengyu Ren, Zheyu Yan, Liu Liu, Dancheng Liu, Amir Nassereldine, Jinjun Xiong, Kai Ni, Sharon Hu, Yiyu Shi <br>
 The 28rd Design, Automation and Test in Europe Conference (DATE), 2025 (acceptance rate 25%) <br>
 
-Enabling Memory-Efficient On-Device Learning via Dataset Condensation <br>
+[Enabling Memory-Efficient On-Device Learning via Dataset Condensation](https://ieeexplore.ieee.org/abstract/document/10992874) <br>
 Gelei Xu, Ningzhi Tang, Jun Xia, **Ruiyang Qin**, Wei Jin, Yiyu Shi <br>
 The 28rd Design, Automation and Test in Europe Conference (DATE), 2025 (acceptance rate 25%) <br>
 
