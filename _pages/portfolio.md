@@ -9,6 +9,8 @@ author_profile: true
 Assistant Professor (Starting Aug 2025), ECE at Villanova University  
 PhD Student (Sep 2022 - May 2025), CSE at University of Notre Dame
 
+### Ph.D. Students
+- Ningxin Kong (Fall 2025, BS from University of Toronto, MS from University of Chicago)  
 
 ### Recruitment   
 We are actively recruiting 
@@ -17,10 +19,5 @@ We are actively recruiting
 - Undergraduates and Interns are also welcome
   
 If you are interested, please contact **[rqin@villanova.edu](mailto:rqin@villanova.edu)** with your CV and transcripts.  
-
-
-### Ph.D. Students
-- Ningxin Kong (Fall 2025, BS from University of Toronto, MS from University of Chicago)  
-
 
 
