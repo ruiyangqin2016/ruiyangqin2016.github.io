@@ -82,7 +82,6 @@ ACM Transactions on Management Information Systems (TMIS)
 Marialena Bevilacqua, Kezia Oketch, **Ruiyang Qin**, Will Stamey, Xinyuan Zhang, Yi Gan, Kai Yang, Ahmed Abbasi <br>
 ACM Transactions on Information Systems (TOIS)
 
-Under Review
------
+
 
 
