@@ -21,7 +21,7 @@ PhD Student (Sep 2022 - May 2025), CSE at University of Notre Dame
            style="width:120px; height:120px; object-fit:cover; border-radius:50%; display:block;">
     </td>
     <td style="border:none; vertical-align:top; padding-left:10px;">
-      <div style="font-weight:600; font-size:1.2em; margin:0;">
+      <div style="font-weight:600; font-size:1.6em; margin:0;">
         <a href="https://www.linkedin.com/in/stacy-kong-625a421a2/" 
            style="text-decoration:none; color:#0056b3;">Ningxin Kong</a>
       </div>
