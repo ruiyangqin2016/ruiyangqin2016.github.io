@@ -10,7 +10,7 @@ Assistant Professor (Starting Aug 2025), ECE at Villanova University
 PhD Student (Sep 2022 - May 2025), CSE at University of Notre Dame
 
 ### Ph.D. Students
-- Ningxin Kong (Fall 2025, BS from University of Toronto, MS from University of Chicago)  
+- [Ningxin Kong](https://www.linkedin.com/in/stacy-kong-625a421a2/) (Fall 2025, BS from University of Toronto, MS from University of Chicago)  
 
 ### Recruitment   
 We are actively recruiting 
