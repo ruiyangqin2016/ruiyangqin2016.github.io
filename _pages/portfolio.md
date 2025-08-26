@@ -10,15 +10,16 @@ Assistant Professor (Starting Aug 2025), ECE at Villanova University
 PhD Student (Sep 2022 - May 2025), CSE at University of Notre Dame
 
 ### Ph.D. Students
-<table style="max-width:700px; margin-bottom:20px;">
+<table style="border-collapse:collapse; border:none; margin-bottom:20px; max-width:700px;">
   <tr>
-    <td style="vertical-align:top; padding-right:16px;">
+    <td style="border:none; vertical-align:top; padding-right:14px;">
       <img src="/images/Ningxin.jpg" alt="Ningxin Kong"
            style="width:120px; height:120px; object-fit:cover; border-radius:50%;">
     </td>
-    <td style="vertical-align:top;">
+    <td style="border:none; vertical-align:top; text-align:left;">
       <div style="font-weight:600; font-size:1.2em; margin-bottom:6px;">
-        <a href="https://www.linkedin.com/in/stacy-kong-625a421a2/" style="text-decoration:none;">Ningxin Kong</a>
+        <a href="https://www.linkedin.com/in/stacy-kong-625a421a2/" 
+           style="text-decoration:none; color:#0056b3;">Ningxin Kong</a>
       </div>
       <div style="color:#444; line-height:1.5;">
         Ph.D. Student (Fall 2025)<br>
