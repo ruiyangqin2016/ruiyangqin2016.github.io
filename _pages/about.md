@@ -67,18 +67,16 @@ News
 
 Review Services 
 ======
+- Nautre Machine Intelligence
+- npj Digital Medicine
+- Nature Scientific Report
+- IEEE International Conference on Computer Design (ICCD)
+- International Conference on Computer-Aided Design (ICCAD)
 - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
 - IEEE Intelligent Systems
 - IEEE Transactions on Mobile Computing
-- Conference on Neural Information Processing Systems (NeurIPS)
-- Association for the Advancement of Artificial Intelligence (AAAI)
 - Journal of Medical Internet Research (JMIR)
-- International Conference on Learning Representations (ICLR)
-- Artificial Intelligence and Statistics (AISTATS)
-- Nature Scientific Report
-- Nautre Machine Intelligence
-- IEEE International Conference on Computer Design (ICCD)
-- International Conference on Computer-Aided Design (ICCAD)
+- AISTATS, AAAI, NeurIPS, ICLR
 
 
 Awards
