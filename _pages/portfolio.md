@@ -26,9 +26,9 @@ PhD Student (Sep 2022 - May 2025), CSE at University of Notre Dame
            style="text-decoration:none; color:#0056b3;">Ningxin Kong</a>
       </div>
       <div style="color:#444; line-height:1.5; margin-top:4px;">
-        Ph.D. Student (Fall 2025)<br>
+        Ph.D. Student (Fall 2025 - Present)<br>
+        M.S. — University of Chicago<br>
         B.S. — University of Toronto<br>
-        M.S. — University of Chicago
       </div>
     </td>
   </tr>
